@@ -1,3 +1,8 @@
+> **<span class="notranslate">English</span> version.** [Raw view](README_en.md?plain=1) · Deutsch: [README.md](README.md)
+
+# Import LandXML Tools (QGIS)
+...
+
 > German version: see [README.md](README.md)
 > # Import LandXML Tools (QGIS)...
 
