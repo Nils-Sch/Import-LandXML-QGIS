@@ -1,5 +1,5 @@
 > German version: see [README.md](README.md)
-> # Import LandXML Tools (QGIS)
+> # Import LandXML Tools (QGIS)...
 
 QGIS Processing scripts to bring survey data — especially from Trimble Access — into QGIS quickly and robustly, without DXF detours and without overwrite prompts.
 
