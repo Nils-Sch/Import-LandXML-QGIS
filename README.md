@@ -1,3 +1,8 @@
+> **Deutsche Version.** [Rohansicht (ohne Übersetzung)](README.md?plain=1) · English: [README_en.md](README_en.md)
+
+# Import-LandXML-QGIS
+...
+
 > English version: see [README_en.md](README_en.md)
 # Import-LandXML-QGIS
 
